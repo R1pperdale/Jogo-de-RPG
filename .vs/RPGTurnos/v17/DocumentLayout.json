@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Luca Escola\\Ensino M\u00E9dio ETEC 2 JOD\\Linguagem de Programa\u00E7\u00E3o 1\\1\u00BABimestre\\RPGTurnos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB303BD-F785-4911-B585-DC3B3D498180}|RPGTurnos\\RPGTurnos.csproj|e:\\luca escola\\ensino m\u00E9dio etec 2 jod\\linguagem de programa\u00E7\u00E3o 1\\1\u00BAbimestre\\rpgturnos\\rpgturnos\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB303BD-F785-4911-B585-DC3B3D498180}|RPGTurnos\\RPGTurnos.csproj|solutionrelative:rpgturnos\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Personagem.cs",
+              "DocumentMoniker": "E:\\Luca Escola\\Ensino M\u00E9dio ETEC 2 JOD\\Linguagem de Programa\u00E7\u00E3o 1\\1\u00BABimestre\\RPGTurnos\\RPGTurnos\\Personagem.cs",
+              "RelativeDocumentMoniker": "RPGTurnos\\Personagem.cs",
+              "ToolTip": "E:\\Luca Escola\\Ensino M\u00E9dio ETEC 2 JOD\\Linguagem de Programa\u00E7\u00E3o 1\\1\u00BABimestre\\RPGTurnos\\RPGTurnos\\Personagem.cs",
+              "RelativeToolTip": "RPGTurnos\\Personagem.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowBsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T14:56:38.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+C:\Users\Aluno\source\repos\RPGTurnos\RPGTurnos\obj\Debug\RPGTurnos.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\RPGTurnos\RPGTurnos\obj\Debug\RPGTurnos.Properties.Resources.resources
+C:\Users\Aluno\source\repos\RPGTurnos\RPGTurnos\obj\Debug\RPGTurnos.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\RPGTurnos\RPGTurnos\obj\Debug\RPGTurnos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\RPGTurnos\RPGTurnos\bin\Debug\RPGTurnos.exe.config
+C:\Users\Aluno\source\repos\RPGTurnos\RPGTurnos\bin\Debug\RPGTurnos.exe
+C:\Users\Aluno\source\repos\RPGTurnos\RPGTurnos\bin\Debug\RPGTurnos.pdb
+C:\Users\Aluno\source\repos\RPGTurnos\RPGTurnos\obj\Debug\RPGTurnos.exe
+C:\Users\Aluno\source\repos\RPGTurnos\RPGTurnos\obj\Debug\RPGTurnos.pdb
+E:\Luca Escola\Ensino Médio ETEC 2 JOD\Linguagem de Programação 1\1ºBimestre\RPGTurnos\RPGTurnos\bin\Debug\RPGTurnos.exe.config
+E:\Luca Escola\Ensino Médio ETEC 2 JOD\Linguagem de Programação 1\1ºBimestre\RPGTurnos\RPGTurnos\bin\Debug\RPGTurnos.exe
+E:\Luca Escola\Ensino Médio ETEC 2 JOD\Linguagem de Programação 1\1ºBimestre\RPGTurnos\RPGTurnos\bin\Debug\RPGTurnos.pdb
+E:\Luca Escola\Ensino Médio ETEC 2 JOD\Linguagem de Programação 1\1ºBimestre\RPGTurnos\RPGTurnos\obj\Debug\RPGTurnos.csprojAssemblyReference.cache
+E:\Luca Escola\Ensino Médio ETEC 2 JOD\Linguagem de Programação 1\1ºBimestre\RPGTurnos\RPGTurnos\obj\Debug\RPGTurnos.Properties.Resources.resources
+E:\Luca Escola\Ensino Médio ETEC 2 JOD\Linguagem de Programação 1\1ºBimestre\RPGTurnos\RPGTurnos\obj\Debug\RPGTurnos.csproj.GenerateResource.cache
+E:\Luca Escola\Ensino Médio ETEC 2 JOD\Linguagem de Programação 1\1ºBimestre\RPGTurnos\RPGTurnos\obj\Debug\RPGTurnos.csproj.CoreCompileInputs.cache
+E:\Luca Escola\Ensino Médio ETEC 2 JOD\Linguagem de Programação 1\1ºBimestre\RPGTurnos\RPGTurnos\obj\Debug\RPGTurnos.exe
+E:\Luca Escola\Ensino Médio ETEC 2 JOD\Linguagem de Programação 1\1ºBimestre\RPGTurnos\RPGTurnos\obj\Debug\RPGTurnos.pdb
+E:\Escola\Etec 2° Ano - JOD\POO\1° Bimestre\RPG por Turno 07_03_2025\RPGTurnos\RPGTurnos\bin\Debug\RPGTurnos.exe.config
+E:\Escola\Etec 2° Ano - JOD\POO\1° Bimestre\RPG por Turno 07_03_2025\RPGTurnos\RPGTurnos\bin\Debug\RPGTurnos.exe
+E:\Escola\Etec 2° Ano - JOD\POO\1° Bimestre\RPG por Turno 07_03_2025\RPGTurnos\RPGTurnos\bin\Debug\RPGTurnos.pdb
+E:\Escola\Etec 2° Ano - JOD\POO\1° Bimestre\RPG por Turno 07_03_2025\RPGTurnos\RPGTurnos\obj\Debug\RPGTurnos.csprojAssemblyReference.cache
+E:\Escola\Etec 2° Ano - JOD\POO\1° Bimestre\RPG por Turno 07_03_2025\RPGTurnos\RPGTurnos\obj\Debug\RPGTurnos.Properties.Resources.resources
+E:\Escola\Etec 2° Ano - JOD\POO\1° Bimestre\RPG por Turno 07_03_2025\RPGTurnos\RPGTurnos\obj\Debug\RPGTurnos.csproj.GenerateResource.cache
+E:\Escola\Etec 2° Ano - JOD\POO\1° Bimestre\RPG por Turno 07_03_2025\RPGTurnos\RPGTurnos\obj\Debug\RPGTurnos.csproj.CoreCompileInputs.cache
+E:\Escola\Etec 2° Ano - JOD\POO\1° Bimestre\RPG por Turno 07_03_2025\RPGTurnos\RPGTurnos\obj\Debug\RPGTurnos.exe
+E:\Escola\Etec 2° Ano - JOD\POO\1° Bimestre\RPG por Turno 07_03_2025\RPGTurnos\RPGTurnos\obj\Debug\RPGTurnos.pdb
